@@ -1,0 +1,1774 @@
+{
+  "title": "Web Game Portals — verification manifest",
+  "repository": "https://github.com/ayomide321/game-portals",
+  "checked_date": "2026-09-12",
+  "timezone": "America/Los_Angeles",
+  "destination_count": 56,
+  "category_counts": {
+    "web": 25,
+    "community": 6,
+    "platform": 3,
+    "store": 6,
+    "publisher": 16
+  },
+  "method": "Reviewed official submission/developer/publishing pages. HTTP GET checks follow redirects; automated-request restrictions are separately labeled with browser rendering verification. No accounts were registered, games submitted, acceptance tested, or payments tested.",
+  "discovery_source": "https://www.webgamedev.com/publishing/portals",
+  "entries": [
+    {
+      "name": "Coolmath Games",
+      "category": "web",
+      "portal": "https://www.coolmathgames.com/",
+      "developer_route": "https://developers.coolmathgames.com/",
+      "route_type": "Paid licensing",
+      "conditions": "Purchases non-exclusive hosting licenses for selected HTML5 games. Looks for logic, strategy or problem solving; games do not have to involve math.",
+      "sources": [
+        "https://developers.coolmathgames.com/",
+        "https://www.coolmathgames.com/submit-a-game"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Purchases non-exclusive hosting licenses for selected HTML5 games. Looks for logic, strategy or problem solving; games do not have to involve math.",
+      "link_checks": [
+        {
+          "url": "https://www.coolmathgames.com/",
+          "http_status": 200,
+          "final_url": "https://www.coolmathgames.com/",
+          "checked_at": "2026-09-13T01:17:13.751109+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developers.coolmathgames.com/",
+          "http_status": 200,
+          "final_url": "https://developers.coolmathgames.com/",
+          "checked_at": "2026-09-13T01:17:11.362743+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.coolmathgames.com/submit-a-game",
+          "http_status": 200,
+          "final_url": "https://www.coolmathgames.com/submit-a-game",
+          "checked_at": "2026-09-13T01:17:13.726888+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Poki",
+      "category": "web",
+      "portal": "https://poki.com/",
+      "developer_route": "https://developers.poki.com/",
+      "route_type": "Revenue share / licensing",
+      "conditions": "Web-exclusive partnerships include ad revenue share. Selected non-exclusive games can receive a flat license fee instead. Terms depend on the game.",
+      "sources": [
+        "https://developers.poki.com/",
+        "https://developers.poki.com/guide/revenue-deal-types"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Web-exclusive partnerships include ad revenue share. Selected non-exclusive games can receive a flat license fee instead. Terms depend on the game.",
+      "link_checks": [
+        {
+          "url": "https://poki.com/",
+          "http_status": 200,
+          "final_url": "https://poki.com/",
+          "checked_at": "2026-09-13T01:17:12.657773+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developers.poki.com/",
+          "http_status": 200,
+          "final_url": "https://developers.poki.com/",
+          "checked_at": "2026-09-13T01:17:11.452715+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developers.poki.com/guide/revenue-deal-types",
+          "http_status": 200,
+          "final_url": "https://developers.poki.com/guide/revenue-deal-types",
+          "checked_at": "2026-09-13T01:17:11.467995+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "CrazyGames",
+      "category": "web",
+      "portal": "https://www.crazygames.com/",
+      "developer_route": "https://developer.crazygames.com/",
+      "route_type": "Revenue share",
+      "conditions": "Reviewed web games enter a launch process. Basic Launch has no monetization; Full Launch enables revenue share. In-game purchases are for selected games.",
+      "sources": [
+        "https://developer.crazygames.com/",
+        "https://docs.crazygames.com/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Reviewed web games enter a launch process. Basic Launch has no monetization; Full Launch enables revenue share. In-game purchases are for selected games.",
+      "link_checks": [
+        {
+          "url": "https://www.crazygames.com/",
+          "http_status": 200,
+          "final_url": "https://www.crazygames.com/",
+          "checked_at": "2026-09-13T01:17:13.749385+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developer.crazygames.com/",
+          "http_status": 200,
+          "final_url": "https://developer.crazygames.com/",
+          "checked_at": "2026-09-13T01:17:10.702516+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://docs.crazygames.com/",
+          "http_status": 200,
+          "final_url": "https://docs.crazygames.com/",
+          "checked_at": "2026-09-13T01:17:11.563393+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Armor Games",
+      "category": "web",
+      "portal": "https://armorgames.com/",
+      "developer_route": "https://developers.armorgames.com/docs/introduction/overview/",
+      "route_type": "Negotiated compensation",
+      "conditions": "Accepts HTML5 games. Describes compensation for branding, timed site exclusivity and support for in-game purchases; discuss the fit with its team.",
+      "sources": [
+        "https://developers.armorgames.com/docs/introduction/overview/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Accepts HTML5 games. Describes compensation for branding, timed site exclusivity and support for in-game purchases; discuss the fit with its team.",
+      "link_checks": [
+        {
+          "url": "https://armorgames.com/",
+          "http_status": 200,
+          "final_url": "https://armorgames.com/",
+          "checked_at": "2026-09-13T01:17:10.837612+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developers.armorgames.com/docs/introduction/overview/",
+          "http_status": 200,
+          "final_url": "https://developers.armorgames.com/docs/introduction/overview/",
+          "checked_at": "2026-09-13T01:17:11.335762+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Addicting Games",
+      "category": "web",
+      "portal": "https://www.addictinggames.com/",
+      "developer_route": "https://www.addictinggames.com/about/upload",
+      "route_type": "Reviewed submission",
+      "conditions": "Submit a playable link for review; an itch.io link is suggested. Confirm commercial terms with the team before treating a submission as a paid deal.",
+      "sources": [
+        "https://www.addictinggames.com/about/upload"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Submit a playable link for review; an itch.io link is suggested. Confirm commercial terms with the team before treating a submission as a paid deal.",
+      "link_checks": [
+        {
+          "url": "https://www.addictinggames.com/",
+          "http_status": 200,
+          "final_url": "https://www.addictinggames.com/",
+          "checked_at": "2026-09-13T01:17:13.607491+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.addictinggames.com/about/upload",
+          "http_status": 200,
+          "final_url": "https://www.addictinggames.com/about/upload",
+          "checked_at": "2026-09-13T01:17:13.629469+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Y8",
+      "category": "web",
+      "portal": "https://www.y8.com/",
+      "developer_route": "https://developer.y8.com/",
+      "route_type": "Ad revenue share",
+      "conditions": "Accepts HTML5 and WebGL submissions for review. Monetization options include Y8-managed ads and an AdSense partnership for eligible developers.",
+      "sources": [
+        "https://developer.y8.com/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Accepts HTML5 and WebGL submissions for review. Monetization options include Y8-managed ads and an AdSense partnership for eligible developers.",
+      "link_checks": [
+        {
+          "url": "https://www.y8.com/",
+          "http_status": 200,
+          "final_url": "https://www.y8.com/",
+          "checked_at": "2026-09-13T01:17:16.025726+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developer.y8.com/",
+          "http_status": 200,
+          "final_url": "https://developer.y8.com/",
+          "checked_at": "2026-09-13T01:17:11.824637+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "GamePix",
+      "category": "web",
+      "portal": "https://www.gamepix.com/",
+      "developer_route": "https://partners.gamepix.com/developers",
+      "route_type": "Distribution / revenue share",
+      "conditions": "Distributes HTML5 games through its network. Its publishing flow includes SDK integration, submission and approval.",
+      "sources": [
+        "https://partners.gamepix.com/developers"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Distributes HTML5 games through its network. Its publishing flow includes SDK integration, submission and approval.",
+      "link_checks": [
+        {
+          "url": "https://www.gamepix.com/",
+          "http_status": 200,
+          "final_url": "https://www.gamepix.com/",
+          "checked_at": "2026-09-13T01:17:13.978392+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://partners.gamepix.com/developers",
+          "http_status": 200,
+          "final_url": "https://partners.gamepix.com/developers",
+          "checked_at": "2026-09-13T01:17:13.159155+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "GameDistribution",
+      "category": "web",
+      "portal": "https://gamedistribution.com/",
+      "developer_route": "https://github.com/GameDistribution/GD-HTML5",
+      "route_type": "Distribution / revenue share",
+      "conditions": "Distributes games to publisher sites, with a share of net revenue from ads and in-game purchases under its developer agreement.",
+      "sources": [
+        "https://github.com/GameDistribution/GD-HTML5",
+        "https://static.gamedistribution.com/terms/developer.html"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Distributes games to publisher sites, with a share of net revenue from ads and in-game purchases under its developer agreement.",
+      "link_checks": [
+        {
+          "url": "https://gamedistribution.com/",
+          "http_status": 200,
+          "final_url": "https://gamedistribution.com/",
+          "checked_at": "2026-09-13T01:17:12.273749+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://github.com/GameDistribution/GD-HTML5",
+          "http_status": 200,
+          "final_url": "https://github.com/GameDistribution/GD-HTML5",
+          "checked_at": "2026-09-13T01:17:12.449233+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://static.gamedistribution.com/terms/developer.html",
+          "http_status": 200,
+          "final_url": "https://static.gamedistribution.com/terms/developer.html",
+          "checked_at": "2026-09-13T01:17:13.145343+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "GameMonetize",
+      "category": "web",
+      "portal": "https://gamemonetize.com/",
+      "developer_route": "https://gamemonetize.com/developers",
+      "route_type": "Distribution / ad revenue share",
+      "conditions": "HTML5 distribution network with SDK integration and in-game advertising revenue share. Review the current program terms before integrating.",
+      "sources": [
+        "https://gamemonetize.com/developers"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "HTML5 distribution network with SDK integration and in-game advertising revenue share. Review the current program terms before integrating.",
+      "link_checks": [
+        {
+          "url": "https://gamemonetize.com/",
+          "http_status": 200,
+          "final_url": "https://gamemonetize.com/",
+          "checked_at": "2026-09-13T01:17:12.049424+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://gamemonetize.com/developers",
+          "http_status": 200,
+          "final_url": "https://gamemonetize.com/developers",
+          "checked_at": "2026-09-13T01:17:11.904575+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "itch.io",
+      "category": "community",
+      "portal": "https://itch.io/games/html5",
+      "developer_route": "https://itch.io/docs/creators/html5",
+      "route_type": "Self-publishing / marketplace",
+      "conditions": "Host a playable browser build on your own project page. HTML5 listings support donations; paid access uses a different listing setup. No publisher pitch required.",
+      "sources": [
+        "https://itch.io/docs/creators/html5"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Host a playable browser build on your own project page. HTML5 listings support donations; paid access uses a different listing setup. No publisher pitch required.",
+      "link_checks": [
+        {
+          "url": "https://itch.io/games/html5",
+          "http_status": 429,
+          "final_url": "https://itch.io/games/html5",
+          "checked_at": "2026-09-13T01:17:11.901859+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        },
+        {
+          "url": "https://itch.io/docs/creators/html5",
+          "http_status": 200,
+          "final_url": "https://itch.io/docs/creators/html5",
+          "checked_at": "2026-09-13T01:17:12.704114+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "GameFlare",
+      "category": "web",
+      "portal": "https://www.gameflare.com/",
+      "developer_route": "https://distribution.gameflare.com/developers/",
+      "route_type": "Ad revenue share",
+      "conditions": "HTML5 games, including playable early-access builds. Quality review; allows publication on other portals. HTTPS required for server connections.",
+      "sources": [
+        "https://distribution.gameflare.com/developers/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official developer FAQ accepts HTML5, describes revenue sharing and permits upload to other portals.",
+      "link_checks": [
+        {
+          "url": "https://www.gameflare.com/",
+          "http_status": 403,
+          "final_url": "https://www.gameflare.com/",
+          "checked_at": "2026-09-13T01:17:13.909107+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        },
+        {
+          "url": "https://distribution.gameflare.com/developers/",
+          "http_status": 403,
+          "final_url": "https://distribution.gameflare.com/developers/",
+          "checked_at": "2026-09-13T01:17:11.549752+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        }
+      ]
+    },
+    {
+      "name": "Gamenora",
+      "category": "web",
+      "portal": "https://www.gamenora.com/",
+      "developer_route": "https://www.gamenora.com/page/terms-of-use/",
+      "route_type": "Distribution pitch",
+      "conditions": "Send a playable link, embed code or game-file link to the address under Submit Games to Website. Selective inclusion; no developer payment promised.",
+      "sources": [
+        "https://www.gamenora.com/page/terms-of-use/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official terms explicitly invite game submissions by email and warn not all games are accepted.",
+      "link_checks": [
+        {
+          "url": "https://www.gamenora.com/",
+          "http_status": 200,
+          "final_url": "https://www.gamenora.com/",
+          "checked_at": "2026-09-13T01:17:14.716500+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.gamenora.com/page/terms-of-use/",
+          "http_status": 200,
+          "final_url": "https://www.gamenora.com/page/terms-of-use/",
+          "checked_at": "2026-09-13T01:17:14.619676+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "WebGamer",
+      "category": "web",
+      "portal": "https://webgamer.io/",
+      "developer_route": "https://webgamer.io/en/about",
+      "route_type": "Distribution pitch",
+      "conditions": "Curated browser games; prioritizes polish, fast loading and gameplay depth. Email the About-page contact; hosting is optional. No payment promise.",
+      "sources": [
+        "https://webgamer.io/en/about"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Signed-out browser showed explicit listing criteria, optional game hosting and working mailto:contact@webgamer.io on About page.",
+      "link_checks": [
+        {
+          "url": "https://webgamer.io/",
+          "http_status": 200,
+          "final_url": "https://webgamer.io/",
+          "checked_at": "2026-09-13T01:17:14.369765+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://webgamer.io/en/about",
+          "http_status": 200,
+          "final_url": "https://webgamer.io/en/about",
+          "checked_at": "2026-09-13T01:17:14.055959+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "gd.games",
+      "category": "community",
+      "portal": "https://gd.games/",
+      "developer_route": "https://wiki.gdevelop.io/gdevelop5/publishing/web",
+      "route_type": "Engine-specific publishing",
+      "conditions": "Publish a GDevelop game to its browser catalog through the editor's sharing flow. Engine-specific; a playable hosting/discovery route, not a license offer.",
+      "sources": [
+        "https://wiki.gdevelop.io/gdevelop5/publishing/web",
+        "https://gdevelop.io/page/how-to-publish-a-video-game-with-gdevelop"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official GDevelop publishing guide explains publishing to gd.games.",
+      "link_checks": [
+        {
+          "url": "https://gd.games/",
+          "http_status": 200,
+          "final_url": "https://gd.games/",
+          "checked_at": "2026-09-13T01:17:12.102448+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://wiki.gdevelop.io/gdevelop5/publishing/web",
+          "http_status": 200,
+          "final_url": "https://wiki.gdevelop.io/gdevelop5/publishing/web/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.138111+00:00"
+        },
+        {
+          "url": "https://gdevelop.io/page/how-to-publish-a-video-game-with-gdevelop",
+          "http_status": 200,
+          "final_url": "https://gdevelop.io/page/how-to-publish-a-video-game-with-gdevelop",
+          "checked_at": "2026-09-13T01:17:12.132304+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Discord Activities",
+      "category": "platform",
+      "portal": "https://discord.com/application-directory",
+      "developer_route": "https://docs.discord.com/developers/activities/building-an-activity",
+      "route_type": "Embedded web-game distribution",
+      "conditions": "Adapt your web game to Discord's Embedded App SDK. App verification and discovery requirements apply; monetization has separate eligibility rules.",
+      "sources": [
+        "https://docs.discord.com/developers/activities/building-an-activity",
+        "https://docs.discord.com/developers/discovery/overview"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official Activities guide describes embedded web games; discovery documentation covers listing in the directory.",
+      "link_checks": [
+        {
+          "url": "https://discord.com/application-directory",
+          "http_status": 200,
+          "final_url": "https://discord.com/discovery/applications",
+          "checked_at": "2026-09-13T01:17:11.561361+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://docs.discord.com/developers/activities/building-an-activity",
+          "http_status": 200,
+          "final_url": "https://docs.discord.com/developers/activities/building-an-activity",
+          "checked_at": "2026-09-13T01:17:11.785198+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://docs.discord.com/developers/discovery/overview",
+          "http_status": 200,
+          "final_url": "https://docs.discord.com/developers/discovery/overview",
+          "checked_at": "2026-09-13T01:17:11.837074+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "PlayDeck",
+      "category": "platform",
+      "portal": "https://www.playdeck.io/",
+      "developer_route": "https://www.playdeck.io/",
+      "route_type": "Telegram publishing / monetization",
+      "conditions": "Start with the linked onboarding bot, get approved, then integrate through the developer dashboard. Supports advertising and purchases; check platform fees and terms.",
+      "sources": [
+        "https://www.playdeck.io/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official site explicitly invites games and documents onboarding bot, approval and developer dashboard.",
+      "link_checks": [
+        {
+          "url": "https://www.playdeck.io/",
+          "http_status": 200,
+          "final_url": "https://www.playdeck.io/",
+          "checked_at": "2026-09-13T01:17:14.597510+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Steam",
+      "category": "store",
+      "portal": "https://store.steampowered.com/",
+      "developer_route": "https://partner.steamgames.com/steamdirect",
+      "route_type": "Store sales / self-publishing",
+      "conditions": "Prepare a supported desktop build, store page and review submission. Per-product fee, identity/tax onboarding and release waiting periods apply; not an HTML5 portal upload.",
+      "sources": [
+        "https://partner.steamgames.com/steamdirect"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Steam Direct official onboarding page lists submission flow, fee, review and waiting periods.",
+      "link_checks": [
+        {
+          "url": "https://store.steampowered.com/",
+          "http_status": 200,
+          "final_url": "https://store.steampowered.com/",
+          "checked_at": "2026-09-13T01:17:13.459165+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://partner.steamgames.com/steamdirect",
+          "http_status": 200,
+          "final_url": "https://partner.steamgames.com/steamdirect",
+          "checked_at": "2026-09-13T01:17:12.585530+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Epic Games Store",
+      "category": "store",
+      "portal": "https://store.epicgames.com/",
+      "developer_route": "https://store.epicgames.com/distribution",
+      "route_type": "Store sales / self-publishing",
+      "conditions": "Self-publish supported PC builds through Epic’s developer tools. Product review, multiplayer crossplay and achievement rules apply. Optional exclusivity programs have separate terms.",
+      "sources": [
+        "https://store.epicgames.com/distribution"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official distribution page provides self-service publishing route and requirements.",
+      "link_checks": [
+        {
+          "url": "https://store.epicgames.com/",
+          "http_status": 403,
+          "final_url": "https://store.epicgames.com/",
+          "checked_at": "2026-09-13T01:17:13.142406+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        },
+        {
+          "url": "https://store.epicgames.com/distribution",
+          "http_status": 403,
+          "final_url": "https://store.epicgames.com/distribution",
+          "checked_at": "2026-09-13T01:17:13.144477+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        }
+      ]
+    },
+    {
+      "name": "GOG",
+      "category": "store",
+      "portal": "https://www.gog.com/",
+      "developer_route": "https://www.gog.com/submit-your-game",
+      "route_type": "Curated store distribution",
+      "conditions": "Submit a PC game for catalog consideration through the linked form. Curated selection and a separate distribution agreement; not automatic publication.",
+      "sources": [
+        "https://www.gog.com/submit-your-game",
+        "https://lp.gog.com/submit-your-game/en"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official GOG submission page embeds its live Submit your game form.",
+      "link_checks": [
+        {
+          "url": "https://www.gog.com/",
+          "http_status": 200,
+          "final_url": "https://www.gog.com/en/",
+          "checked_at": "2026-09-13T01:17:15.441694+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.gog.com/submit-your-game",
+          "http_status": 200,
+          "final_url": "https://www.gog.com/submit-your-game",
+          "checked_at": "2026-09-13T01:17:14.410186+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://lp.gog.com/submit-your-game/en",
+          "http_status": 200,
+          "final_url": "https://lp.gog.com/submit-your-game/en",
+          "checked_at": "2026-09-13T01:17:14.391195+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Nintendo eShop",
+      "category": "store",
+      "portal": "https://www.nintendo.com/us/store/games/",
+      "developer_route": "https://developer.nintendo.com/the-process",
+      "route_type": "Console self-publishing",
+      "conditions": "Register, apply for platform access, prepare a console build, obtain ratings and pass Nintendo review. Requires platform development work beyond a browser build.",
+      "sources": [
+        "https://developer.nintendo.com/the-process"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Nintendo's public process page explicitly covers registration, separate Switch access and game review.",
+      "link_checks": [
+        {
+          "url": "https://www.nintendo.com/us/store/games/",
+          "http_status": 200,
+          "final_url": "https://www.nintendo.com/us/store/games/",
+          "checked_at": "2026-09-13T01:17:14.211711+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developer.nintendo.com/the-process",
+          "http_status": 200,
+          "final_url": "https://developer.nintendo.com/the-process",
+          "checked_at": "2026-09-13T01:17:11.057793+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Xbox / Microsoft Store games",
+      "category": "store",
+      "portal": "https://www.xbox.com/games",
+      "developer_route": "https://developer.microsoft.com/en-us/games/publish",
+      "route_type": "Console / PC self-publishing",
+      "conditions": "Apply through ID@Xbox and submit your game concept. Platform onboarding, a supported build and certification apply; submission alone is not a funding or Game Pass deal.",
+      "sources": [
+        "https://developer.microsoft.com/en-us/games/publish",
+        "https://learn.microsoft.com/en-us/xbox/game-publishing/publishing-processes/managed-creators/overview"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official Xbox game publishing guide describes developer program and game concept submission.",
+      "link_checks": [
+        {
+          "url": "https://www.xbox.com/games",
+          "http_status": 200,
+          "final_url": "https://www.xbox.com/en-US/games",
+          "checked_at": "2026-09-13T01:17:15.783196+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://developer.microsoft.com/en-us/games/publish",
+          "http_status": 200,
+          "final_url": "https://developer.microsoft.com/en-us/games/partner",
+          "checked_at": "2026-09-13T01:17:11.558195+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/xbox/game-publishing/publishing-processes/managed-creators/overview",
+          "http_status": 200,
+          "final_url": "https://learn.microsoft.com/en-us/gaming/game-publishing/publishing-processes/managed-creators/overview",
+          "checked_at": "2026-09-13T01:17:12.538840+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "PlayStation Store",
+      "category": "store",
+      "portal": "https://store.playstation.com/",
+      "developer_route": "https://partners.playstation.net/",
+      "route_type": "Console partner application",
+      "conditions": "Apply as a PlayStation partner with your studio/project information. Approval, platform development and certification precede release; not a direct browser-game upload.",
+      "sources": [
+        "https://partners.playstation.net/",
+        "https://sonyinteractive.com/en/news/blog/showing-your-game-to-playstation/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Signed-out browser rendered Join Us Now, self-publishing and studio/project onboarding. Corroborated by Sony official 2026 publishing guide.",
+      "link_checks": [
+        {
+          "url": "https://store.playstation.com/",
+          "http_status": 200,
+          "final_url": "https://store.playstation.com/en-us/pages/latest",
+          "checked_at": "2026-09-13T01:17:13.562328+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://partners.playstation.net/",
+          "http_status": 200,
+          "final_url": "https://partners.playstation.net/",
+          "checked_at": "2026-09-13T01:17:12.885452+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://sonyinteractive.com/en/news/blog/showing-your-game-to-playstation/",
+          "http_status": 200,
+          "final_url": "https://sonyinteractive.com/en/news/blog/showing-your-game-to-playstation/",
+          "checked_at": "2026-09-13T01:17:13.619523+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Devolver Digital",
+      "category": "publisher",
+      "portal": "https://www.devolverdigital.com/games",
+      "developer_route": "https://pitch.devolverdigital.com/",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Gameplay video, pitch deck, demo and financial plan. The form currently only considers games targeting release next year or later.",
+      "sources": [
+        "https://pitch.devolverdigital.com/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official pitch form requires video, deck, requested funds and restricts release timing.",
+      "link_checks": [
+        {
+          "url": "https://www.devolverdigital.com/games",
+          "http_status": 429,
+          "final_url": "https://www.devolverdigital.com/games",
+          "checked_at": "2026-09-13T01:17:13.752841+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        },
+        {
+          "url": "https://pitch.devolverdigital.com/",
+          "http_status": 200,
+          "final_url": "https://pitch.devolverdigital.com/",
+          "checked_at": "2026-09-13T01:17:12.631442+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Raw Fury",
+      "category": "publisher",
+      "portal": "https://rawfury.com/",
+      "developer_route": "https://rawfury.com/talk/",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Use Game Pitches. Prepare a playable build, deck, launch window, budget and visual materials; follow its linked submission form.",
+      "sources": [
+        "https://rawfury.com/talk/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official contact page has specific Game Pitches section and preparation requirements.",
+      "link_checks": [
+        {
+          "url": "https://rawfury.com/",
+          "http_status": 200,
+          "final_url": "https://rawfury.com/",
+          "checked_at": "2026-09-13T01:17:12.847567+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://rawfury.com/talk/",
+          "http_status": 200,
+          "final_url": "https://rawfury.com/talk/",
+          "checked_at": "2026-09-13T01:17:13.204693+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Team17",
+      "category": "publisher",
+      "portal": "https://www.team17.com/",
+      "developer_route": "https://www.team17.com/pitch-your-game",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Accepts pitches across genres and platforms. Describe your project and support needs; publishing, production and funding are discussed case by case.",
+      "sources": [
+        "https://www.team17.com/pitch-your-game"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official pitch page says genre/platform agnostic and links game submission.",
+      "link_checks": [
+        {
+          "url": "https://www.team17.com/",
+          "http_status": 200,
+          "final_url": "https://www.team17.com/",
+          "checked_at": "2026-09-13T01:17:14.531475+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.team17.com/pitch-your-game",
+          "http_status": 200,
+          "final_url": "https://www.team17.com/pitch-your-game",
+          "checked_at": "2026-09-13T01:17:14.537799+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "tinyBuild",
+      "category": "publisher",
+      "portal": "https://www.tinybuild.com/",
+      "developer_route": "https://www.tinybuild.com/single-post/how-to-pitch-games-in-2024",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Use the game-pitch email in its official pitching guide. Show the core gameplay, visual appeal and scope; commercial terms require agreement.",
+      "sources": [
+        "https://www.tinybuild.com/single-post/how-to-pitch-games-in-2024"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official August 2024 guide ends with Send us your game pitch - pitches at thisdomain .com; live checked today.",
+      "link_checks": [
+        {
+          "url": "https://www.tinybuild.com/",
+          "http_status": 200,
+          "final_url": "https://www.tinybuild.com/",
+          "checked_at": "2026-09-13T01:17:14.585107+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.tinybuild.com/single-post/how-to-pitch-games-in-2024",
+          "http_status": 200,
+          "final_url": "https://www.tinybuild.com/single-post/how-to-pitch-games-in-2024",
+          "checked_at": "2026-09-13T01:17:15.838918+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Fellow Traveller",
+      "category": "publisher",
+      "portal": "https://www.fellowtraveller.games/",
+      "developer_route": "https://www.fellowtraveller.games/developers",
+      "route_type": "Narrative-game publishing",
+      "conditions": "Story-rich indie games. Pitch by the listed developer email with overview, target platforms, timeline and support needs; usually needs a build before signing.",
+      "sources": [
+        "https://www.fellowtraveller.games/developers"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official developer page invites pitch emails and describes narrative focus and build requirements.",
+      "link_checks": [
+        {
+          "url": "https://www.fellowtraveller.games/",
+          "http_status": 200,
+          "final_url": "https://www.fellowtraveller.games/",
+          "checked_at": "2026-09-13T01:17:14.206127+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.fellowtraveller.games/developers",
+          "http_status": 200,
+          "final_url": "https://www.fellowtraveller.games/developers",
+          "checked_at": "2026-09-13T01:17:14.275376+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Akupara Games",
+      "category": "publisher",
+      "portal": "https://www.akuparagames.com/",
+      "developer_route": "https://www.akuparagames.com/pitch-a-game/",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Premium indie titles; excludes educational/family, VR/AR and primarily political/religious games. Bring a deck, playable build, gameplay video and budget; see engine preferences.",
+      "sources": [
+        "https://www.akuparagames.com/pitch-a-game/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official Pitch a Game form and Getting started requirements.",
+      "link_checks": [
+        {
+          "url": "https://www.akuparagames.com/",
+          "http_status": 403,
+          "final_url": "https://www.akuparagames.com/",
+          "checked_at": "2026-09-13T01:17:13.844430+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        },
+        {
+          "url": "https://www.akuparagames.com/pitch-a-game/",
+          "http_status": 403,
+          "final_url": "https://www.akuparagames.com/pitch-a-game/",
+          "checked_at": "2026-09-13T01:17:13.843413+00:00",
+          "exit": 0,
+          "browser_verified": true,
+          "browser_result": "Live page rendered in a signed-out browser with expected catalog or developer content; no CAPTCHA bypass."
+        }
+      ]
+    },
+    {
+      "name": "Curve Games",
+      "category": "publisher",
+      "portal": "https://curvegames.com/our-games/",
+      "developer_route": "https://curvegames.com/contact/im-a-developer/",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Pitch an indie project through its developer contact form. Include the requested project details and review the existing catalog for fit.",
+      "sources": [
+        "https://curvegames.com/contact/im-a-developer/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official homepage Pitch To Us links developer-specific form.",
+      "link_checks": [
+        {
+          "url": "https://curvegames.com/our-games/",
+          "http_status": 200,
+          "final_url": "https://curvegames.com/our-games/",
+          "checked_at": "2026-09-13T01:17:11.644084+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://curvegames.com/contact/im-a-developer/",
+          "http_status": 200,
+          "final_url": "https://curvegames.com/contact/im-a-developer/",
+          "checked_at": "2026-09-13T01:17:11.266144+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Noodlecake",
+      "category": "publisher",
+      "portal": "https://noodlecake.com/",
+      "developer_route": "https://noodlecake.com/support/",
+      "route_type": "Publishing inquiry",
+      "conditions": "Use the Publishing email, not the technical-support address. Send your game and partnership needs; platform scope and terms are discussed directly.",
+      "sources": [
+        "https://noodlecake.com/support/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official Support page has Make a Game / Publishing section inviting games at publishing@noodlecake.com.",
+      "link_checks": [
+        {
+          "url": "https://noodlecake.com/",
+          "http_status": 200,
+          "final_url": "https://noodlecake.com/",
+          "checked_at": "2026-09-13T01:17:12.367640+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://noodlecake.com/support/",
+          "http_status": 200,
+          "final_url": "https://noodlecake.com/support/",
+          "checked_at": "2026-09-13T01:17:12.448995+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Daedalic Entertainment",
+      "category": "publisher",
+      "portal": "https://daedalic.com/",
+      "developer_route": "https://daedalic.com/",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Focuses on storytelling, strategy, co-op and wholesome games. Use the Pitch your game / Submit game email on the official site.",
+      "sources": [
+        "https://daedalic.com/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Current official homepage names four focus areas and scouting@daedalic.com submission route.",
+      "link_checks": [
+        {
+          "url": "https://daedalic.com/",
+          "http_status": 200,
+          "final_url": "https://daedalic.com/",
+          "checked_at": "2026-09-13T01:17:13.066922+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Playstack",
+      "category": "publisher",
+      "portal": "https://www.playstack.com/games/",
+      "developer_route": "https://www.playstack.com/pitch/",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Submit through its pitch form. Describes tailored financing, QA, localization, store management and marketing support; selection and deal terms vary.",
+      "sources": [
+        "https://www.playstack.com/pitch/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official Pitch Your Game page invites contact through form and describes services.",
+      "link_checks": [
+        {
+          "url": "https://www.playstack.com/games/",
+          "http_status": 200,
+          "final_url": "https://www.playstack.com/games/",
+          "checked_at": "2026-09-13T01:17:15.486294+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.playstack.com/pitch/",
+          "http_status": 200,
+          "final_url": "https://www.playstack.com/pitch/",
+          "checked_at": "2026-09-13T01:17:15.427497+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "indie.io",
+      "category": "publisher",
+      "portal": "https://www.indie.io/",
+      "developer_route": "https://www.indie.io/indie-pass/",
+      "route_type": "Curated subscription distribution",
+      "conditions": "Indie Pass accepts PC game submissions, including already-launched titles. Non-exclusive subscription revenue share based on play; uses its own launcher.",
+      "sources": [
+        "https://www.indie.io/indie-pass/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official Indie Pass page invites submissions, confirms non-exclusive PC-only scope and play-based revenue share.",
+      "link_checks": [
+        {
+          "url": "https://www.indie.io/",
+          "http_status": 200,
+          "final_url": "https://www.indie.io/",
+          "checked_at": "2026-09-13T01:17:14.103821+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://www.indie.io/indie-pass/",
+          "http_status": 200,
+          "final_url": "https://www.indie.io/indie-pass/",
+          "checked_at": "2026-09-13T01:17:14.207626+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Chucklefish",
+      "category": "publisher",
+      "portal": "https://chucklefish.org/",
+      "developer_route": "https://pitch.chucklefish.org/",
+      "route_type": "Negotiated publishing deal",
+      "conditions": "Pitch form asks for the game, team and genre, with fields for funding, release timing, deck and playable build. Trailer and deck are encouraged.",
+      "sources": [
+        "https://pitch.chucklefish.org/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Live official submission form includes game/studio/genre and optional funding/build links.",
+      "link_checks": [
+        {
+          "url": "https://chucklefish.org/",
+          "http_status": 200,
+          "final_url": "https://chucklefish.org/",
+          "checked_at": "2026-09-13T01:17:11.748309+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://pitch.chucklefish.org/",
+          "http_status": 200,
+          "final_url": "https://pitch.chucklefish.org/",
+          "checked_at": "2026-09-13T01:17:12.796927+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Dear Villagers",
+      "category": "publisher",
+      "portal": "https://dearvillagers.com/",
+      "developer_route": "https://dearvillagers.com/pitch-your-game/",
+      "route_type": "Premium PC / console publishing",
+      "conditions": "Small and medium teams; premium PC games with console potential and strong solo content. No mobile or free-to-play pitches. Include plans, budget and preferably a prototype.",
+      "sources": [
+        "https://dearvillagers.com/pitch-your-game/",
+        "https://dearvillagers.com/pitch-your-game-form/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official pitch criteria explicitly identify team size, premium PC/console and solo focus.",
+      "link_checks": [
+        {
+          "url": "https://dearvillagers.com/",
+          "http_status": 200,
+          "final_url": "https://dearvillagers.com/",
+          "checked_at": "2026-09-13T01:17:11.483636+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://dearvillagers.com/pitch-your-game/",
+          "http_status": 200,
+          "final_url": "https://dearvillagers.com/pitch-your-game/",
+          "checked_at": "2026-09-13T01:17:13.641500+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://dearvillagers.com/pitch-your-game-form/",
+          "http_status": 200,
+          "final_url": "https://dearvillagers.com/pitch-your-game-form/",
+          "checked_at": "2026-09-13T01:17:11.476143+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "PQube",
+      "category": "publisher",
+      "portal": "https://pqube.co.uk/",
+      "developer_route": "https://pqube.co.uk/submit-a-game/",
+      "route_type": "Publishing / distribution pitch",
+      "conditions": "Form asks for platform and support needs, plus video, build and deck. Works across major platforms; commercial scope is negotiated.",
+      "sources": [
+        "https://pqube.co.uk/submit-a-game/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official Submit a Game form and publishing/distribution description.",
+      "link_checks": [
+        {
+          "url": "https://pqube.co.uk/",
+          "http_status": 200,
+          "final_url": "https://pqube.co.uk/",
+          "checked_at": "2026-09-13T01:17:13.539195+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://pqube.co.uk/submit-a-game/",
+          "http_status": 200,
+          "final_url": "https://pqube.co.uk/submit-a-game/",
+          "checked_at": "2026-09-13T01:17:13.377026+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Whitethorn Games",
+      "category": "publisher",
+      "portal": "https://whitethorngames.com/",
+      "developer_route": "https://whitethorngames.com/publishing",
+      "route_type": "Accessible / low-stress game publishing",
+      "conditions": "Looks for welcoming, accessible and low-stress games. Accepts pitches at any stage; a demo, visuals, budget, timeline and technical details help.",
+      "sources": [
+        "https://whitethorngames.com/publishing"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official publishing page gives ideals, services and pitch preparation list.",
+      "link_checks": [
+        {
+          "url": "https://whitethorngames.com/",
+          "http_status": 200,
+          "final_url": "https://whitethorngames.com/",
+          "checked_at": "2026-09-13T01:17:13.624783+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://whitethorngames.com/publishing",
+          "http_status": 200,
+          "final_url": "https://whitethorngames.com/publishing",
+          "checked_at": "2026-09-13T01:17:13.682894+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Serenity Forge",
+      "category": "publisher",
+      "portal": "https://serenityforge.com/",
+      "developer_route": "https://serenityforge.com/publishing",
+      "route_type": "Publishing / porting pitch",
+      "conditions": "Seeks meaningful games expressing their creators’ values. Use Pitch Your Game; digital/physical publishing, porting and support depend on the project.",
+      "sources": [
+        "https://serenityforge.com/publishing"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official publishing page invites pitches and describes customized publishing, distribution and porting services.",
+      "link_checks": [
+        {
+          "url": "https://serenityforge.com/",
+          "http_status": 200,
+          "final_url": "https://serenityforge.com/",
+          "checked_at": "2026-09-13T01:17:13.030758+00:00",
+          "exit": 0
+        },
+        {
+          "url": "https://serenityforge.com/publishing",
+          "http_status": 200,
+          "final_url": "https://serenityforge.com/publishing",
+          "checked_at": "2026-09-13T01:17:13.042135+00:00",
+          "exit": 0
+        }
+      ]
+    },
+    {
+      "name": "Yandex Games",
+      "category": "web",
+      "portal": "https://yandex.com/games/",
+      "developer_route": "https://yandex.com/support/games/en/for-developers",
+      "route_type": "Ad / purchase monetization",
+      "conditions": "Connect its SDK and submit through Games Console for moderation. Monetization has separate setup and regional/payment eligibility; check those before integrating.",
+      "sources": [
+        "https://yandex.com/support/games/en/for-developers",
+        "https://yandex.com/dev/games/doc/en/services/about-monetization"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Connect SDK, submit through Games Console for moderation; published games can enable monetization.",
+      "link_checks": [
+        {
+          "url": "https://yandex.com/games/",
+          "http_status": 200,
+          "final_url": "https://yandex.com/games/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:34.322874+00:00"
+        },
+        {
+          "url": "https://yandex.com/support/games/en/for-developers",
+          "http_status": 200,
+          "final_url": "https://yandex.com/support/games/en/for-developers",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:33.491516+00:00"
+        },
+        {
+          "url": "https://yandex.com/dev/games/doc/en/services/about-monetization",
+          "http_status": 200,
+          "final_url": "https://yandex.com/dev/games/doc/en/services/about-monetization",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:33.642070+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Playgama",
+      "category": "web",
+      "portal": "https://playgama.com/",
+      "developer_route": "https://playgama.com/developers",
+      "route_type": "Distribution / revenue share",
+      "conditions": "Integrate Bridge, upload your HTML5 game and pass review. Ad and purchase monetization; partner distribution can be selected. Confirm any existing exclusivity before distributing.",
+      "sources": [
+        "https://playgama.com/developers",
+        "https://wiki.playgama.com/playgama/faq/submitting-a-game"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Integrate Bridge, upload through developer portal, pass moderation; platform operates ads and IAP.",
+      "link_checks": [
+        {
+          "url": "https://playgama.com/",
+          "http_status": 200,
+          "final_url": "https://playgama.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.685502+00:00"
+        },
+        {
+          "url": "https://playgama.com/developers",
+          "http_status": 200,
+          "final_url": "https://playgama.com/developers",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.332379+00:00"
+        },
+        {
+          "url": "https://wiki.playgama.com/playgama/faq/submitting-a-game",
+          "http_status": 200,
+          "final_url": "https://wiki.playgama.com/playgama/faq/submitting-a-game",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.379254+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Famobi",
+      "category": "web",
+      "portal": "https://famobi.com/",
+      "developer_route": "https://famobi.com/developers/?locale=en",
+      "route_type": "Licensing / revenue share",
+      "conditions": "Pitch polished, responsive HTML5 games through the developer program. Review technical and source-file delivery requirements; confirm the license and payment structure offered.",
+      "sources": [
+        "https://famobi.com/developers/?locale=en"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Developer page explicitly invites games and states monetization and revenue sharing.",
+      "link_checks": [
+        {
+          "url": "https://famobi.com/",
+          "http_status": 200,
+          "final_url": "https://famobi.com/?locale=en",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.808166+00:00"
+        },
+        {
+          "url": "https://famobi.com/developers/?locale=en",
+          "http_status": 200,
+          "final_url": "https://famobi.com/developers/?locale=en",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.339635+00:00"
+        }
+      ]
+    },
+    {
+      "name": "SOFTGAMES",
+      "category": "web",
+      "portal": "https://www.softgames.com/",
+      "developer_route": "https://www.softgames.com/html5-game-publishing/",
+      "route_type": "Sponsorship / revenue share",
+      "conditions": "Submit an HTML5 game through its publishing page. Describes sponsorship and longer-term revenue-share options; terms and acceptance are negotiated.",
+      "sources": [
+        "https://www.softgames.com/html5-game-publishing/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Explicit Submit Game and game contact route; describes upfront sponsorship options and long-term revenue shares.",
+      "link_checks": [
+        {
+          "url": "https://www.softgames.com/",
+          "http_status": 200,
+          "final_url": "https://www.softgames.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.791492+00:00"
+        },
+        {
+          "url": "https://www.softgames.com/html5-game-publishing/",
+          "http_status": 200,
+          "final_url": "https://www.softgames.com/html5-game-publishing/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:33.955795+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Kizi",
+      "category": "web",
+      "portal": "https://kizi.com/",
+      "developer_route": "https://kizi.com/developers",
+      "route_type": "Licensing / eligible purchase share",
+      "conditions": "Developer program invites HTML5 games and describes licensing plus purchase revenue share where applicable. Review its game requirements and confirm current deal terms.",
+      "sources": [
+        "https://kizi.com/developers"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Invites studios and indie developers; HTML5 supported, license fee and IAP revenue share when applicable.",
+      "link_checks": [
+        {
+          "url": "https://kizi.com/",
+          "http_status": 200,
+          "final_url": "https://kizi.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.374697+00:00"
+        },
+        {
+          "url": "https://kizi.com/developers",
+          "http_status": 200,
+          "final_url": "https://kizi.com/developers",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.151362+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Lagged",
+      "category": "web",
+      "portal": "https://lagged.com/",
+      "developer_route": "https://lagged.dev/",
+      "route_type": "Ad revenue share",
+      "conditions": "The portal links directly to lagged.dev for game submissions. Uses AdSense revenue sharing; follow developer onboarding and integration requirements.",
+      "sources": [
+        "https://lagged.dev/",
+        "https://lagged.com/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official homepage links this developer dashboard. It invites game submissions and states 50% AdSense revenue share.",
+      "link_checks": [
+        {
+          "url": "https://lagged.com/",
+          "http_status": 200,
+          "final_url": "https://lagged.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.422899+00:00"
+        },
+        {
+          "url": "https://lagged.dev/",
+          "http_status": 406,
+          "final_url": "https://lagged.dev/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.655780+00:00",
+          "browser_verified": true,
+          "browser_result": "Live page rendered in browser: developer onboarding, publishing tutorial, game catalog or submission guide verified on September 12, 2026."
+        }
+      ]
+    },
+    {
+      "name": "4J",
+      "category": "web",
+      "portal": "https://www.4j.com/",
+      "developer_route": "https://w.4j.com/",
+      "route_type": "Game-feed distribution",
+      "conditions": "Its webmaster center accepts HTML5/WebGL games through an XML feed. A distribution route; the linked page does not promise payments to submitting developers.",
+      "sources": [
+        "https://w.4j.com/",
+        "https://w.4j.com/faq/Terms-Of-Use"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Webmaster center explicitly accepts HTML5/WebGL games by XML feed for distribution.",
+      "link_checks": [
+        {
+          "url": "https://www.4j.com/",
+          "http_status": 200,
+          "final_url": "https://www.4j.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.147152+00:00"
+        },
+        {
+          "url": "https://w.4j.com/",
+          "http_status": 200,
+          "final_url": "https://w.4j.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.982484+00:00"
+        },
+        {
+          "url": "https://w.4j.com/faq/Terms-Of-Use",
+          "http_status": 200,
+          "final_url": "https://w.4j.com/faq/Terms-Of-Use",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.007538+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Construct Arcade",
+      "category": "community",
+      "portal": "https://www.construct.net/en/free-online-games",
+      "developer_route": "https://www.construct.net/en/tutorials/publishing-construct-arcade-2849",
+      "route_type": "Engine-specific self-publishing",
+      "conditions": "Publish a Construct export through its Arcade upload flow. Supports playable games and demos; pay-to-play and in-game purchases are not allowed.",
+      "sources": [
+        "https://www.construct.net/en/tutorials/publishing-construct-arcade-2849",
+        "https://www.construct.net/en/free-online-games"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official tutorial documents Arcade export ZIP, upload metadata and publishing for Construct games.",
+      "link_checks": [
+        {
+          "url": "https://www.construct.net/en/free-online-games",
+          "http_status": 403,
+          "final_url": "https://www.construct.net/en/free-online-games",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.224905+00:00",
+          "browser_verified": true,
+          "browser_result": "Live page rendered in browser: developer onboarding, publishing tutorial, game catalog or submission guide verified on September 12, 2026."
+        },
+        {
+          "url": "https://www.construct.net/en/tutorials/publishing-construct-arcade-2849",
+          "http_status": 403,
+          "final_url": "https://www.construct.net/en/tutorials/publishing-construct-arcade-2849",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.219905+00:00",
+          "browser_verified": true,
+          "browser_result": "Live page rendered in browser: developer onboarding, publishing tutorial, game catalog or submission guide verified on September 12, 2026."
+        }
+      ]
+    },
+    {
+      "name": "Newgrounds",
+      "category": "community",
+      "portal": "https://www.newgrounds.com/games",
+      "developer_route": "https://www.newgrounds.com/wiki/help-information/content-submission/games-and-movies",
+      "route_type": "Moderated game publishing",
+      "conditions": "Upload an HTML5 ZIP with index.html or a Unity WebGL build, preview and publish through its submission workflow. Community distribution; no standard payment promise established.",
+      "sources": [
+        "https://www.newgrounds.com/wiki/help-information/content-submission/games-and-movies"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official submission guide accepts HTML5 ZIP with index.html and Unity WebGL; preview and publish workflow.",
+      "link_checks": [
+        {
+          "url": "https://www.newgrounds.com/games",
+          "http_status": 200,
+          "final_url": "https://www.newgrounds.com/games",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.113345+00:00"
+        },
+        {
+          "url": "https://www.newgrounds.com/wiki/help-information/content-submission/games-and-movies",
+          "http_status": 200,
+          "final_url": "https://www.newgrounds.com/wiki/help-information/content-submission/games-and-movies",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.042003+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Silvergames",
+      "category": "web",
+      "portal": "https://www.silvergames.com/",
+      "developer_route": "https://www.silvergames.com/en/site/submit-a-game",
+      "route_type": "Reviewed game distribution",
+      "conditions": "Send a playable game link through the contact on its submission page. Requires modern-browser support and no excessive ads or misleading links. Payment terms are not stated.",
+      "sources": [
+        "https://www.silvergames.com/en/site/submit-a-game"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official portal has a Submit Your Game route linked from live game pages.",
+      "link_checks": [
+        {
+          "url": "https://www.silvergames.com/",
+          "http_status": 200,
+          "final_url": "https://www.silvergames.com/en/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.584114+00:00"
+        },
+        {
+          "url": "https://www.silvergames.com/en/site/submit-a-game",
+          "http_status": 200,
+          "final_url": "https://www.silvergames.com/en/site/submit-a-game",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.526227+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Miniplay / Minijuegos",
+      "category": "web",
+      "portal": "https://www.miniplay.com/",
+      "developer_route": "https://ssl.miniplay.com/dev/user/login",
+      "route_type": "Developer application / distribution",
+      "conditions": "Create an account to request developer access, then use the preview and release-review workflow. Regional brands share one route. Confirm current monetization terms.",
+      "sources": [
+        "https://ssl.miniplay.com/dev/user/login",
+        "https://ssl.miniplay.com/dev/docs/overview"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Developer login links Create account to request developer access; official docs describe preview and release requests.",
+      "link_checks": [
+        {
+          "url": "https://www.miniplay.com/",
+          "http_status": 200,
+          "final_url": "https://www.miniplay.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.875494+00:00"
+        },
+        {
+          "url": "https://ssl.miniplay.com/dev/user/login",
+          "http_status": 200,
+          "final_url": "https://ssl.miniplay.com/dev/user/login",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.422635+00:00"
+        },
+        {
+          "url": "https://ssl.miniplay.com/dev/docs/overview",
+          "http_status": 200,
+          "final_url": "https://ssl.miniplay.com/dev/docs/overview",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.362834+00:00"
+        }
+      ]
+    },
+    {
+      "name": "GX.games",
+      "category": "community",
+      "portal": "https://gx.games/",
+      "developer_route": "https://gamemaker.io/en/tutorials/publish-to-gxgames-tutorial",
+      "route_type": "GameMaker self-publishing",
+      "conditions": "Export from GameMaker, upload to GX Dev and choose unlisted or public release. Requires the supported GX target; this is not an arbitrary HTML5 ZIP uploader. No payment claim.",
+      "sources": [
+        "https://gamemaker.io/en/tutorials/publish-to-gxgames-tutorial"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official GameMaker tutorial documents export/upload to GX Dev and unlisted/live publication.",
+      "link_checks": [
+        {
+          "url": "https://gx.games/",
+          "http_status": 200,
+          "final_url": "https://gx.games/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.564289+00:00"
+        },
+        {
+          "url": "https://gamemaker.io/en/tutorials/publish-to-gxgames-tutorial",
+          "http_status": 200,
+          "final_url": "https://gamemaker.io/en/tutorials/publish-to-gxgames-tutorial",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.356292+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Kongregate",
+      "category": "web",
+      "portal": "https://www.kongregate.com/",
+      "developer_route": "https://blog.kongregate.com/hc/en-us/articles/44395849259661-SUBMISSION-How-do-I-submit-a-game-to-Kongregate-It-s-Easy",
+      "route_type": "Reviewed publishing / revenue share",
+      "conditions": "Apply for developer approval, then upload a browser-playable game for review. Its current guide describes revenue sharing and Kreds; third-party ads and independent account systems are restricted.",
+      "sources": [
+        "https://blog.kongregate.com/hc/en-us/articles/44395849259661-SUBMISSION-How-do-I-submit-a-game-to-Kongregate-It-s-Easy"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official April20 2026 instructions describe Become a Developer application, approval, upload and game review.",
+      "link_checks": [
+        {
+          "url": "https://www.kongregate.com/",
+          "http_status": 200,
+          "final_url": "https://www.kongregate.com/en",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.943766+00:00"
+        },
+        {
+          "url": "https://blog.kongregate.com/hc/en-us/articles/44395849259661-SUBMISSION-How-do-I-submit-a-game-to-Kongregate-It-s-Easy",
+          "http_status": 403,
+          "final_url": "https://blog.kongregate.com/hc/en-us/articles/44395849259661-SUBMISSION-How-do-I-submit-a-game-to-Kongregate-It-s-Easy",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.153716+00:00",
+          "browser_verified": true,
+          "browser_result": "Live page rendered in browser: developer onboarding, publishing tutorial, game catalog or submission guide verified on September 12, 2026."
+        }
+      ]
+    },
+    {
+      "name": "YouTube Playables",
+      "category": "platform",
+      "portal": "https://www.youtube.com/playables",
+      "developer_route": "https://developers.google.com/youtube/gaming/playables",
+      "route_type": "Interest form / invitation only",
+      "conditions": "Express interest through the official developer page. WebGL/Canvas games require platform integration and certification. Private-preview access is by invitation; no payment promise stated.",
+      "sources": [
+        "https://developers.google.com/youtube/gaming/playables",
+        "https://developers.google.com/youtube/gaming/playables/developer_portal"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official page invites game/company interest; browser WebGL/Canvas games use developer portal releases and certification.",
+      "link_checks": [
+        {
+          "url": "https://www.youtube.com/playables",
+          "http_status": 200,
+          "final_url": "https://www.youtube.com/playables",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.536306+00:00"
+        },
+        {
+          "url": "https://developers.google.com/youtube/gaming/playables",
+          "http_status": 200,
+          "final_url": "https://developers.google.com/youtube/gaming/playables",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.926860+00:00"
+        },
+        {
+          "url": "https://developers.google.com/youtube/gaming/playables/developer_portal",
+          "http_status": 200,
+          "final_url": "https://developers.google.com/youtube/gaming/playables/developer_portal",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.934161+00:00"
+        }
+      ]
+    },
+    {
+      "name": "GamePush",
+      "category": "web",
+      "portal": "https://gamepush.com/",
+      "developer_route": "https://gamepush.com/en/distribution/",
+      "route_type": "Non-exclusive distribution / revenue share",
+      "conditions": "Submit your HTML5 game, integrate the SDK and complete testing for partner distribution. Check the agreement and any existing exclusivity before opting into networks.",
+      "sources": [
+        "https://gamepush.com/en/distribution/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official service invites game submission, SDK integration, testing and distribution; describes revenue sharing.",
+      "link_checks": [
+        {
+          "url": "https://gamepush.com/",
+          "http_status": 200,
+          "final_url": "https://gamepush.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.003447+00:00"
+        },
+        {
+          "url": "https://gamepush.com/en/distribution/",
+          "http_status": 200,
+          "final_url": "https://gamepush.com/en/distribution/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.011748+00:00"
+        }
+      ]
+    },
+    {
+      "name": "CoolGames",
+      "category": "web",
+      "portal": "https://www.coolgames.com/",
+      "developer_route": "https://www.coolgames.com/publishing/",
+      "route_type": "HTML5 licensing pitch",
+      "conditions": "The publishing page invites high-quality HTML5 games for licensing. Use its developer pitch contact and review SDK, QA and delivery requirements. Terms are negotiated.",
+      "sources": [
+        "https://www.coolgames.com/publishing/"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official publishing page explicitly invites HTML5 games; licensing SDK workflow documents QA and delivery.",
+      "link_checks": [
+        {
+          "url": "https://www.coolgames.com/",
+          "http_status": 200,
+          "final_url": "https://www.coolgames.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.853933+00:00"
+        },
+        {
+          "url": "https://www.coolgames.com/publishing/",
+          "http_status": 200,
+          "final_url": "https://www.coolgames.com/publishing/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.113416+00:00"
+        }
+      ]
+    },
+    {
+      "name": "VIVERSE",
+      "category": "community",
+      "portal": "https://www.viverse.com/",
+      "developer_route": "https://docs.viverse.com/standalone-publishing/godot-html5-example",
+      "route_type": "Browser-experience publishing",
+      "conditions": "Upload a compatible HTML5 build through VIVERSE Studio or its publishing tools. A broader interactive-experience catalog with browser games; no compensation promise stated.",
+      "sources": [
+        "https://docs.viverse.com/standalone-publishing/godot-html5-example"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Official guide documents HTML5 build upload through VIVERSE Studio or CLI.",
+      "link_checks": [
+        {
+          "url": "https://www.viverse.com/",
+          "http_status": 200,
+          "final_url": "https://www.viverse.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:32.276362+00:00"
+        },
+        {
+          "url": "https://docs.viverse.com/standalone-publishing/godot-html5-example",
+          "http_status": 200,
+          "final_url": "https://docs.viverse.com/standalone-app-publishing/godot-html5-example",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.598953+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Arkadium",
+      "category": "web",
+      "portal": "https://www.arkadium.com/",
+      "developer_route": "https://developers.arkadium.com/faq",
+      "route_type": "Curated publishing / ad monetization",
+      "conditions": "Submit a playable link for review; no build upload at the initial stage. Responsive HTML5 or Unity games for adult casual audiences are preferred. Ads and possible purchases follow launch; confirm revenue terms.",
+      "sources": [
+        "https://developers.arkadium.com/faq"
+      ],
+      "checked_date": "2026-09-12",
+      "source_review": "Live developer FAQ invites game form submissions and says developer-relations team reviews them.",
+      "link_checks": [
+        {
+          "url": "https://www.arkadium.com/",
+          "http_status": 200,
+          "final_url": "https://www.arkadium.com/",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:31.169690+00:00"
+        },
+        {
+          "url": "https://developers.arkadium.com/faq",
+          "http_status": 200,
+          "final_url": "https://developers.arkadium.com/faq",
+          "exit": 0,
+          "checked_at": "2026-09-13T01:23:30.574114+00:00"
+        }
+      ]
+    }
+  ]
+}
